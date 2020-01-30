@@ -1,10 +1,12 @@
-##Instrucciones
+# Web-Server
+```
+Para instalar todos los modulos ejecute:
+npm install
 
-
-###Para instalar hbs:
-```npm instal hbs --save```
-
-#####Comandos:
-para ejecutar
-node server 
-abrir en local host 3000
+```
+# Ejecución del Programa
+```
+Ejecute en consola:
+node server
+http://localhost:3000/ 
+```
