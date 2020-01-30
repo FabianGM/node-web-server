@@ -1,5 +1,5 @@
 ##Instrucciones
-Se trabajó con Express, Handlebars (hbs) y Heroku
+
 
 ###Para instalar hbs:
 ```npm instal hbs --save```
